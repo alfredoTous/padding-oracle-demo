@@ -1,4 +1,5 @@
-pycriptodome
 fastapi
 uvicorn
-pwntools QUIZAS
+pwntools
+pycryptodome
+requests
