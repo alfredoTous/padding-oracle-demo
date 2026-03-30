@@ -1,0 +1,4 @@
+pycriptodome
+fastapi
+uvicorn
+pwntools QUIZAS
